@@ -1,0 +1,12 @@
+{
+  "export_job_id": "28022406-6c42-4789-99df-6a2015a349d1",
+  "id_short": 586387,
+  "published_at": "2026-04-13T19:37:57Z",
+  "repo_name": "new-restaurant-domains-365-days-in-massachusetts-us-sample-586387",
+  "sample_asset_name": "beamstation_586387_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/586387/beamstation_586387_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 69,
+  "sample_sha256": "9c150b7cf22aa39150142bd6eb3fa8ad08cd3c5105c429bf91a7d2db70343094",
+  "sample_size_bytes": 260575,
+  "total_records": 695
+}
